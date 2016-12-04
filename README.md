@@ -4,4 +4,4 @@ Programa Java - CRUD  - CATEGORIA - PRODUTO
 
 Exemplo de programa JAVA com gravação no banco de dados ORACLE SQL com JDBC.
 
-Nele contem os métodos criar, listar, deletar, excluir, foi usado HASHMAPS para fazer o listar.
+Nele contem os métodos criar, listar, deletar, excluir, foi usado HASHMAP para fazer o listar.
